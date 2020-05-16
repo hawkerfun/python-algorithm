@@ -1,4 +1,4 @@
-#  Set Of differen Algorithms implemented on Python
+#  Set Of different Algorithms implemented in Python
 
 This project contains implementation of Sorting, Searching, Graph, Greedy and so on Algorithms implemented on Python
 
